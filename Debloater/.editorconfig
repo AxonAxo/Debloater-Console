@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS1926: Error opening Win32 manifest file E:\Coding\Debloater Console\Debloater\app.manifest -- Could not find file 'E:\Coding\Debloater Console\Debloater\app.manifest'.
+dotnet_diagnostic.CS1926.severity = none
